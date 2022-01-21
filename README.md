@@ -9,6 +9,6 @@
 Ссылка на VS2019 Installer 
 https://mega.nz/file/La5B1SKD#t5znXoMv9WdAdA6RstNK3NMkmk9utEKhFSE9FRmADIY
 
-Настройки именования и отображения параметров методов:
+Настройки именования и отображения параметров методов, редактировать в Tools/Options/Text Editor(Инструменты/Настройки/Текстовый редактор):
 ![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/blob/main/Naming.JPG)
-![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/raw/master/Naming.JPG)
+![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/blob/main/Inline_parametrs.JPG)

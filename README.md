@@ -5,3 +5,8 @@
 1. Документация по C# - https://docs.microsoft.com/ru-ru/dotnet/csharp/
 2. METANIT - https://metanit.com/sharp/
 3. CodeBlog - https://www.youtube.com/watch?v=p9QxqrwkPbA&list=PLIIXgDT0bKw4OmiZ9yGmShKsY0XncViZ8
+
+Ссылка на VS2019 Installer 
+https://mega.nz/file/La5B1SKD#t5znXoMv9WdAdA6RstNK3NMkmk9utEKhFSE9FRmADIY
+
+Настройки именования и отображения параметров методов:

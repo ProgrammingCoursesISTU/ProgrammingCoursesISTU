@@ -10,3 +10,5 @@
 https://mega.nz/file/La5B1SKD#t5znXoMv9WdAdA6RstNK3NMkmk9utEKhFSE9FRmADIY
 
 Настройки именования и отображения параметров методов:
+![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/raw/master/Inline_parametrs.JPG)
+![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/raw/master/Naming.JPG)

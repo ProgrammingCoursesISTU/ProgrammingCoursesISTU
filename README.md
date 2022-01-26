@@ -8,6 +8,8 @@
 
 Ссылка на VS2019 Installer 
 https://mega.nz/file/La5B1SKD#t5znXoMv9WdAdA6RstNK3NMkmk9utEKhFSE9FRmADIY
+В инсталере нужно выбрать Visual Studio 2019 Community и поставить вот эту галочку:
+![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/blob/main/.NET_Setup.JPG)
 
 Настройки именования и отображения параметров методов, редактировать в Tools/Options/Text Editor(Инструменты/Настройки/Текстовый редактор):
 ![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/blob/main/Naming.JPG)

@@ -3,6 +3,10 @@
 ## Группа в Телеграмм
 https://t.me/+Rrj3ggU3EchiNjEy
 
+## Учетная запись Visual Studio
+Логин: programmingcoursesistu@gmail.com
+Пароль: ProgrammingCourses2022
+
 ## Полезные ссылки
 
 1. Документация по C# - https://docs.microsoft.com/ru-ru/dotnet/csharp/

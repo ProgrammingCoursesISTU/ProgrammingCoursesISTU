@@ -4,6 +4,7 @@
 https://t.me/+Rrj3ggU3EchiNjEy
 
 ## Учетная запись Visual Studio
+Для логина на компьютера в ИРНИТУ нужно будет ввести данные логин и пароль, либо можете использовать свою учетную запись
 Логин: programmingcoursesistu@gmail.com
 Пароль: ProgrammingCourses2022
 

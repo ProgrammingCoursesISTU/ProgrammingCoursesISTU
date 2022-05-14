@@ -15,9 +15,9 @@ https://t.me/+Rrj3ggU3EchiNjEy
 3. CodeBlog - https://www.youtube.com/watch?v=p9QxqrwkPbA&list=PLIIXgDT0bKw4OmiZ9yGmShKsY0XncViZ8
 4. Ссылка на записи лекций, проходившие онлайн: https://mega.nz/folder/XOglVQxb#xN1ml43f7m6o0GFQQO9ckQ
 
-Ссылка на VS2019 Installer 
-https://mega.nz/file/La5B1SKD#t5znXoMv9WdAdA6RstNK3NMkmk9utEKhFSE9FRmADIY
-В инсталере нужно выбрать Visual Studio 2019 Community и поставить вот эту галочку:
+Ссылка на VS2022  
+https://visualstudio.microsoft.com/ru/vs/
+В инсталере нужно выбрать Visual Studio 2022 Community и поставить вот эту галочку:
 
 ![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/blob/main/.NET_Setup.JPG)
 

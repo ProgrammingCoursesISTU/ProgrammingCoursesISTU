@@ -17,6 +17,7 @@ https://t.me/+Rrj3ggU3EchiNjEy
 
 Ссылка на VS2022  
 https://visualstudio.microsoft.com/ru/vs/
+
 В инсталере нужно выбрать Visual Studio 2022 Community и поставить вот эту галочку:
 
 ![Image alt](https://github.com/ProgrammingCoursesISTU/ProgrammingCoursesISTU/blob/main/.NET_Setup.JPG)
